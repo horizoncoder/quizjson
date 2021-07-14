@@ -126,18 +126,22 @@
       "answer": "pizza"
     }  
   ],
-      "results": [
+       "results": [
     {
-      "result": "Stern - You’re a very serious person!",
+       "id": 1,
+      "result": "Stern - You’re a very serious person!"
     },
      {
-      "result": "Funny - You have a wicked sense of humour!",
+        "id": 2,
+      "result": "Funny - You have a wicked sense of humour!"
     },
      {
-      "result": "Outgoing - You’re a perfect mix of funny, chill, and intelligence!  ",
+       "id": 3,
+      "result": "Outgoing - You’re a perfect mix of funny, chill, and intelligence!"
     },
       {
-      "result": "Shy - You’re shy and reserved!  "
+        "id": 4,
+      "result": "Shy - You’re shy and reserved!"
     }
   ],
   
